@@ -5,7 +5,7 @@ Otherwise here are some instructions on how to use it.
 ### Usage
 if you want the images for local use, git clone this repo to local.
 ```
-https://github.com/internal-departments/ica-singapore-pictures.git
+https://github.com/internal-departments/myscdf-pictures.git
 ```
 Otherwise if you want to just reference the images, just use this url
 ```
